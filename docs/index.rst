@@ -10,9 +10,7 @@ Hello World 1
    :maxdepth: 2
    :caption: Contents:
 
-I want something just like this
-
-Hello Mr Vu
+   ./testing.rst
 
 Indices and tables
 ==================
