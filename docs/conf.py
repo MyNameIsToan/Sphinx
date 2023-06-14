@@ -14,7 +14,8 @@ author = 'La Quoc Toan'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    "sphinx_needs"
+    "sphinx_needs",
+    "sphinxcontrib.plantuml"
 ]
 
 templates_path = ['_templates']
